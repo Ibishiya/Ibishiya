@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ibishiya LadyJ
 - 👀 I’m interested in DataScience.. operation analysis and bussines analysis
-- 🌱 I’m currently learning data science and python, powwer BI
+- 🌱 I’m currently applying data science and python, powwer BI
 - 💞️ I’m looking to collaborate on capstone projects
 - 📫 How to reach me by email johanariveraforero@gmail.com
 
